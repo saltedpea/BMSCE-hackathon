@@ -102,7 +102,7 @@ Follow these steps to set up the project locally:
 
 ### Homepage
 
-![Homepage Screenshot](C:\Users\Kaviya Rupesh\Downloads\home page (1).jpg)
+![Homepage Screenshot]("C:\Users\Kaviya Rupesh\Downloads\home page (1).jpg")
 
 ### Prediction Results
 
