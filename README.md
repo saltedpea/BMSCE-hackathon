@@ -107,7 +107,8 @@ Follow these steps to set up the project locally:
 
 ### Prediction Results
 
-![Results Screenshot](images/result%20page.jpg)
+![result page (1)](https://github.com/user-attachments/assets/13378f48-dc8b-4447-a45b-031e3f993219)
+
 
 ---
 
