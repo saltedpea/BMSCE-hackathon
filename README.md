@@ -102,7 +102,6 @@ Follow these steps to set up the project locally:
 
 ### Homepage
 
-![Homepage Screenshot] <br>
 ![home page (1)](https://github.com/user-attachments/assets/56558f39-3af4-4cbb-8cd8-6b3f2435e6dc)
 
 
